@@ -1,7 +1,8 @@
 # Multiplication-Table
 ## Using loops and iomanip library, create a multiplication table with user input.
 
--
+- Creating the multiplication toold after user inputted c and r for column # and row #. 
+- see code snippet below
 
 ```
 cout << setw(3) << " ";
@@ -23,3 +24,6 @@ cout << setw(3) << " ";
 ## An Example Result of multiplication table 
 
 ![Multiplication-Chart](example.png)
+
+- Emily Holt
+- [LinkedIn](https://www.linkedin.com/in/emily-holt-bb70b8161/)
