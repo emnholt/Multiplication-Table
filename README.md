@@ -20,4 +20,4 @@ cout << setw(3) << " ";
 ```
 
 
-![alt text](image.jpg)
+![Multiplication-Chart](example.png)
