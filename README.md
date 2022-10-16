@@ -20,4 +20,6 @@ cout << setw(3) << " ";
 ```
 
 
+## An Example Result of multiplication table 
+
 ![Multiplication-Chart](example.png)
